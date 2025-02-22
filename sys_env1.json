@@ -1,0 +1,11 @@
+{
+	"MoonGameLibPath" : D:/ROUO/rogamelibs",
+	"MoonServerPath" : D:/ROUO/roserver",
+	"MoonClientProjPath" : D:/ROUO/clientproj",
+	"MoonResPath" : D:/ROUO/clientproj/Assets/artres",
+	"MoonClientCodePath" : D:/ROUO/clientcode",
+	"MoonClientConfigPath" : D:/ROUO/config",
+	"MoonABPath" : D:/ROUO/roab",
+    "MoonClientPackProjPath": D:/ROUO/clientpackproj",
+    "MoonSdkLibPath": D:/ROUO/rosdk"
+}
